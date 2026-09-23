@@ -7,7 +7,6 @@
 ## 🔗 Project Links｜專題連結
 
 - 📊 **Power BI Interactive Dashboard：** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWRiNjc2OTYtODVhMS00YmNiLThiZTgtNmQ0NjBiYWFjZDQ3IiwidCI6IjcwODk3ZDZmLTBhNDgtNDlkZS04ODBmLTI3ZDhhZDQ1ZDc2ZSIsImMiOjEwfQ%3D%3D)
-- 📄 **Project Report：** PDF uploading
 
 本專題以台灣有線電視市場為主題，整理 111Q1～115Q2 公開資料，
 觀察第四台訂戶與市場占有率的變化，並與 MOD 同期趨勢進行比較，
